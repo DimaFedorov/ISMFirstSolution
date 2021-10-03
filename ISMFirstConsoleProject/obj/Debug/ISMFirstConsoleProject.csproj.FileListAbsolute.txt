@@ -1,0 +1,7 @@
+C:\Users\DIMA\source\repos\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.exe.config
+C:\Users\DIMA\source\repos\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.exe
+C:\Users\DIMA\source\repos\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.pdb
+C:\Users\DIMA\source\repos\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.csproj.AssemblyReference.cache
+C:\Users\DIMA\source\repos\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.exe
+C:\Users\DIMA\source\repos\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.pdb
