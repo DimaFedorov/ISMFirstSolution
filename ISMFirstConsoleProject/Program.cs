@@ -10,6 +10,7 @@ namespace ISMFirstConsoleProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hellow, World");
         }
     }
 }
